@@ -1,7 +1,5 @@
 # Notes
 
-### Please take a look in the images and diagram
-
 ### AI Integration - with researchers
 - Would integrate AI tools for data investigation and recommendations
 - AI-powered threat analysis and intelligent insights
