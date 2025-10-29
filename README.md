@@ -2,6 +2,8 @@
 
 A web application that allows users to input an IP address and retrieve threat intelligence data about it.
 Shows combines data from multiple security APIs to provide comprehensive IP reports.
+Please take a look in the images and diagram
+#Please take a look at the images and the diagram.
 
 ## Features
 
@@ -11,9 +13,7 @@ Shows combines data from multiple security APIs to provide comprehensive IP repo
 - Search history for quick access and avoiding redundant calls
 - Support for IPv4 and IPv6 addresses
 - Rate Limit Handling
-- 
-### Please take a look in the images and diagram
-
+  
 **Frontend:** React, Context API, Axios, Jest  
 **Backend:** Node.js, Express, Jest  
 **APIs:** AbuseIPDB, IPQualityScore
