@@ -11,6 +11,8 @@ Shows combines data from multiple security APIs to provide comprehensive IP repo
 - Search history for quick access and avoiding redundant calls
 - Support for IPv4 and IPv6 addresses
 - Rate Limit Handling
+- 
+### Please take a look in the images and diagram
 
 **Frontend:** React, Context API, Axios, Jest  
 **Backend:** Node.js, Express, Jest  
