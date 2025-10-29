@@ -34,4 +34,11 @@
 - In larger projects, components would be more complex and feature-rich
 - Modular approach allows for easy scaling
 
+<img width="1910" height="843" alt="Screenshot 2025-10-28 232955" src="https://github.com/user-attachments/assets/81788f04-8234-4c21-9e84-9a0f679a3684" />
+<img width="1909" height="921" alt="Screenshot 2025-10-28 233030" src="https://github.com/user-attachments/assets/1d1d421c-74cf-4350-8816-7e9be0919557" />
+<img width="1910" height="917" alt="Screenshot 2025-10-28 233207" src="https://github.com/user-attachments/assets/bf723ec0-3b52-4718-bd07-c845f5466a0e" />
+<img width="4809" height="3430" alt="image" src="https://github.com/user-attachments/assets/3bc7c438-0809-4824-b4d2-7d4a48059bfd" />
+
+
+
 
