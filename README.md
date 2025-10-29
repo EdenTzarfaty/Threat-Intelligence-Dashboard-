@@ -2,7 +2,7 @@
 
 A web application that allows users to input an IP address and retrieve threat intelligence data about it.
 Shows combines data from multiple security APIs to provide comprehensive IP reports.
-Please take a look in the images and diagram
+
 #Please take a look at the images and the diagram.
 
 ## Features
